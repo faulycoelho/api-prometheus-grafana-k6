@@ -21,7 +21,9 @@ check if the target is up and running on Prometheus: http://localhost:9090/targe
 ![image](https://github.com/faulycoelho/api-prometheus-grafana-k6/assets/37049426/fe6f9e42-3c67-4b41-a135-058f2dadafc4)
 
 
-Go to Grafana and add a new datasource to Prometheus:
+Go to Grafana: http://localhost:3000/
+
+And add a new datasource to Prometheus:
 url: https://prometheus:9090
 
 Add dashboards:
