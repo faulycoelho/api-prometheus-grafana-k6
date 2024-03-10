@@ -1,4 +1,4 @@
-# Configura and run the project
+# Configure and run the project
 
 Clone this reposority. After that, do this:
 
